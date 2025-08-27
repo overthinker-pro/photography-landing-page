@@ -10,13 +10,13 @@ body {
     }
     h2 {
       font-weight: 600;
-      font-size: 0.4rem;
+      font-size: 2rem;
       text-transform: uppercase;
       letter-spacing: 0.1em;
       margin-bottom: 70px;
       border-bottom: 1px solid #000;
       padding-bottom: 20px;
-      max-width: 400px;
+      max-width: 480px;
       color: #000;
     }
     .cards-container {
